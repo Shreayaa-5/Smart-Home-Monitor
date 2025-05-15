@@ -1,4 +1,5 @@
-Smart Room Automation System – Functional Overview
+****Smart Room Automation System ****
+
 This smart automation system is designed to intelligently control lighting and ventilation (fans) in a room based on environmental conditions and human presence, with manual override features. The system is managed by a Raspberry Pi Pico (WiFi), which acts as the central controller, interfacing with a suite of sensors to monitor and respond to room conditions.
 
 Key Functionalities:
